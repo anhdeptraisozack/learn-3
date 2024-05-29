@@ -1,0 +1,16 @@
+.avatar {
+  width: 120px;
+  height: 120px;
+  /* bo viền */
+  border-radius: 50%;
+  border: 2px solid gray;
+  margin-left: -50px;
+}
+
+.avatar:first-child {
+  margin-left: 0;
+}
+.content {
+  background-color: aqua;
+  padding: 20px;
+}
