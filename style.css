@@ -10,7 +10,11 @@
 .avatar:first-child {
   margin-left: 0;
 }
+
 .content {
+
+  display: inline-block;
   background-color: aqua;
   padding: 20px;
+
 }
